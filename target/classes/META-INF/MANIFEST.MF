@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: addressdatasetgenerator
+Implementation-Version: 0.1.0-SNAPSHOT
+Built-By: shyam
+Implementation-Vendor-Id: com.datasetgenerator
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
