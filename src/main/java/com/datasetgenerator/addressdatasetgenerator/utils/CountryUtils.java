@@ -26,7 +26,7 @@ public class CountryUtils {
 		
 		/*
 		 * curl --get --include 'https://andruxnet-world-cities-v1.p.mashape.com/?query=paris&searchby=city' \
-  -H 'X-Mashape-Key: 494rygOki2msh0KxoJuhZgJ1yyWep1ntKqVjsnyoFyZjl60sxy' \
+  -H 'X-Mashape-Key: ' \
   -H 'Accept: application/json'
 		 */
 		
